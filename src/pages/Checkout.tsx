@@ -103,7 +103,7 @@ const Checkout = () => {
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-muted-foreground">التوصيل</span>
-              <span className="font-mono tabular-nums">٢٠ ج.م</span>
+              <span className="font-mono tabular-nums">20 ج.م</span>
             </div>
             <div className="flex justify-between text-base font-bold pt-1">
               <span>الإجمالي</span>

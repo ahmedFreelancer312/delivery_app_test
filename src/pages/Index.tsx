@@ -24,13 +24,13 @@ const Index = () => {
           transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
         >
           <h1 className="text-2xl md:text-3xl font-extrabold text-foreground leading-tight">
-            أكل مطاعم مدينتك،
+           من كفر شكر
             <br />
             <span className="text-primary">لحد باب بيتك.</span>
           </h1>
           <div className="flex items-center gap-2 mt-3 text-sm text-muted-foreground">
             <Truck className="w-4 h-4" strokeWidth={1.5} />
-            <span>توصيل ثابت ٢٠ ج.م • بيوصل خلال ٣٠ دقيقة</span>
+            <span>إطلبها … وسيبها علينا</span>
           </div>
         </motion.div>
       </section>
